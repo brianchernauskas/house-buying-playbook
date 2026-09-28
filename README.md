@@ -1,8 +1,8 @@
 # The House Buying Playbook
 
 A personal field guide to buying a house in 2026, in the same format as the FinOps and
-Cloud Negotiations playbooks: 14 sections from budget and loans through agents, offers,
-inspections, closing, second homes and ownership, plus three small in-browser calculators
+Cloud Negotiations playbooks: 15 sections from budget and loans through agents, offers,
+inspections, closing, second homes, Arizona-specific rules and ownership, plus three small in-browser calculators
 (payment, points break-even, blended rate).
 
 Single self-contained `index.html`, no build step, no tracking. Deep-link to a section
